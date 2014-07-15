@@ -1,0 +1,159 @@
+*cmd* 'USER 18829210056'
+*cmd* 'PASS wyh123'
+*cmd* 'STAT'
+*stat* ['+OK', '6', '46144']
+(6, 46144)
+*cmd* 'TOP 1 0'
+line:  30
+*cmd* 'TOP 2 0'
+line:  30
+*cmd* 'TOP 3 0'
+line:  30
+*cmd* 'TOP 4 0'
+line:  33
+*cmd* 'TOP 5 0'
+line:  16
+*cmd* 'TOP 6 0'
+line:  16
+*cmd* 'LIST'
+('+OK 6 46144', ['1 7431', '2 9421', '3 13192', '4 14650', '5 720', '6 730'], 48)
+*cmd* 'RETR 1'
+lines: 3
+Received: from =?UTF-8?B?572R5piT6YKu566x5Lit5b+D?= (unknown [192.168.194.219])
+	by mfast1 (Coremail) with SMTP id tcCowEBpmkWtgUpTyQYrBA--.7129S2;
+	Sun, 13 Apr 2014 20:23:09 +0800 (CST)
+From: =?UTF-8?B?572R5piT6YKu566x5Lit5b+D?= <mail@service.netease.com>
+Sender: mail@service.netease.com
+To: 18829210056@163.com
+Message-ID: <1432423829.1627844.1397391789740.JavaMail.mail@service.netease.com>
+Subject: =?GBK?B?yta7+rrFwuvTys/k08O7p9fwz+2jutLX0MWxo8H01cq6xdLRv6rNqKOh?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=GBK
+Content-Transfer-Encoding: quoted-printable
+X-CM-TRANSID:tcCowEBpmkWtgUpTyQYrBA--.7129S2
+X-Coremail-Antispam: 1UD129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UjIYCTnIWjp_UUUOO7kC6x804xWl8cAvFVAK0II2c7xJM28C
+	jxkF64kEwVA0rcxSw2x7M2AIxVAIcxkEcVAq07x20xvEncxIr21l5I8CrVAYz20v67k01c
+	ASc4CIw20EjI02cwAqx4xG6cxCj2AI6xk0xcxE6r15Mc02F40EF7Iq67AEwckEY4v26cxC
+	eVC2j2CE14v26r1DMc02F40EFcxC0VAKzVAqx4xG6I80ewAqx4xG6I80eVA0xI0YY7vIx2
+	IE14AGzxvEb7x7Mc02F40Ex7xS62IqYxC26I8Yz20kMc02F40Ex4C2j40EY4xS6I80eVAF
+	wI0_Jw1lYx0E74AGY7Cv6cx26F48McIj6xkF7I0En7xvr7AKxVW8JVWxJwAm72CE4IkC6x
+	0Yz7v_Jr0_Gr1lF7xvr2IY64vIr41lFcxC0VAqx4xG64AKrs4lw4AK0VCY07AIYIkI8VC2
+	zVAC3wAKzVCjr7xvwVAFz4v204v26I0v724l7I0Y6sxI4wCY1x0264kExVAvwVAq07x20x
+	ylc2xSY4AK6svPMxkI7II2jI8vz4vEwIxGrwCF04k20xvY0x0EwIxGrwCF04k20xvE74AG
+	Y7Cv6cx26F48MxAqzxv262kKe7AKxVWrJr1j6s0q3s1l4c8EcI0Ec7CjxVAaw2AFwI0_Ar
+	1UJVCq3s0DMxCjnVAK0II2c7xJMxC20s026xCaFVCjc4AY6r1j6r4UMxCIbckI1I0E14v2
+	6rWUJr0E3s0q3wC20s026c02F40E14v26r106r1rMI8I3I0E7480Y4vE14v26r1j6r18MI
+	8E67AF67kF1VAFwI0_Jrv_JF1lIxkvb40EIxkG14v26r4j6ryUMIIYrxkI7VAKI48JYxBI
+	daVFxhVjvjDSLSnIWfuvWjIFyTuYvjxUVtkuDUUUU
+X-Originating-IP: [192.168.194.219]
+Date: Sun, 13 Apr 2014 20:23:09 +0800 (CST)
+
+<map name=3D"head">
+  <area title=3D"" href=3D"http://mail.163.com/" shape=3D"rect" target=3D"_=
+blank" coords=3D"40,26,135,50" style=3D"outline:none;">
+  <area title=3D"" href=3D"http://www.126.com/" shape=3D"rect" target=3D"_b=
+lank" coords=3D"147,26,244,50" style=3D"outline:none;">
+  <area title=3D"" href=3D"http://www.yeah.net/" shape=3D"rect" target=3D"_=
+blank" coords=3D"254,26,340,50" style=3D"outline:none;">
+</map>
+<map name=3D"download">
+  <area title=3D"" href=3D"https://itunes.apple.com/cn/app/yi-xin-mian-fei-=
+liao-tian/id683688634" shape=3D"rect" target=3D"_blank" coords=3D"92,61,245=
+,92" style=3D"outline:none;">
+  <area title=3D"" href=3D"http://yixin.dl.126.net/update/installer/yixin.a=
+pk" shape=3D"rect" target=3D"_blank" coords=3D"92,103,245,133" style=3D"out=
+line:none;">
+  <area title=3D"" href=3D"http://www.yixin.im" shape=3D"rect" target=3D"_b=
+lank" coords=3D"92,144,245,175" style=3D"outline:none;">
+</map>
+<map name=3D"cnt1">
+  <area title=3D"" href=3D"http://u.163.com/youfuli?from=3Dphone" shape=3D"=
+rect" target=3D"_blank" coords=3D"299,101,365,125" style=3D"outline:none;">
+</map>
+<map name=3D"cnt2">
+  <area title=3D"" href=3D"http://u.163.com/kefu?from=3Dtuiguang3" shape=3D=
+"rect" target=3D"_blank" coords=3D"299,101,365,125" style=3D"outline:none;"=
+>
+</map>
+<map name=3D"zhidao">
+  <area title=3D"" href=3D"http://zhidao.mail.163.com" shape=3D"rect" targe=
+t=3D"_blank" coords=3D"213,12,274,26" style=3D"outline:none;">
+</map>
+
+<table width=3D"606" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"background-color:#fff;color:#000;">
+  <tbody>
+    <tr>
+      <td style=3D"position: relative;"><img src=3D"http://mimg.127.net/hxm=
+/mail_res/20131128_yixin/img/header.png" alt=3D"=CD=F8=D2=D7=C3=E2=B7=D1=D3=
+=CA=A3=A8163=D3=CA=CF=E4/126=D3=CA=CF=E4/yeah=D3=CA=CF=E4=A3=A9" width=3D"6=
+06" height=3D"65" border=3D"0" style=3D"display:block;" usemap=3D"#head"/><=
+/td>
+    </tr>
+    <tr>
+      <td><img src=3D"http://mimg.127.net/hxm/mail_res/20131128_yixin/img/b=
+anner.jpg" alt=3D"=D2=D7=D0=C5=A3=AC=C8=C3=B9=B5=CD=A8=B8=FC=D3=D0=C8=A4=A3=
+=A8=D2=D7=D0=C5=CA=C7=CA=B1=CF=C2=D7=EE=D0=C2=B5=C4=CA=D6=BB=FA=CD=A8=D1=B6=
+=C8=ED=BC=FE=A3=AC=CC=D8=D3=D0=B8=DF=C7=E5=D3=EF=D2=F4=A1=A2=C0=EB=CF=DF=B6=
+=CC=D0=C5=A1=A2=B5=E7=BB=B0=C1=F4=D1=D4=B5=C8=CD=A8=D1=B6=B9=A6=C4=DC=A3=AC=
+=B8=FC=D3=D0=BA=A3=C1=BF=C3=E2=B7=D1=CC=F9=CD=BC=B1=ED=C7=E9=BC=B0=D2=F4=C0=
+=D6=B7=D6=CF=ED=B7=FE=CE=F1=A3=A9" width=3D"606" height=3D"237" border=3D"0=
+" style=3D"display:block;" /></td>
+    </tr>
+    <tr>
+      <td background=3D"http://mimg.127.net/hxm/mail_res/20131128_yixin/img=
+/bg.jpg">
+        <div style=3D"height: 24px;line-height: 24px;margin:0;padding:37px =
+0;font-family: microsoft Yahei;font-size: 18px;color:#000;text-align:center=
+;">=B3=CF=D1=FB=C4=FA=C3=E2=B7=D1=CA=B9=D3=C3=D2=D7=D0=C5=B7=FE=CE=F1</div>
+        <div style=3D"height: 16px;line-height: 16px;margin:0;padding:0 34p=
+x 18px 34px;font-size: 14px;font-family: Simsun;font-weight: bold;color:#00=
+0;text-align:left;">=D7=F0=BE=B4=B5=C4=CA=D6=BB=FA=D3=CA=CF=E4=D3=C3=BB=A7=
+=A3=BA</div>
+        <div style=3D"height: 16px;line-height: 16px;margin:0;padding:0 34p=
+x 5px 34px;font-family: Simsun;font-size: 12px;color:#000;text-align:left;"=
+>=C4=FA=BF=C9=D6=B1=BD=D3=CA=B9=D3=C3=CA=D6=BB=FA=BA=C5&nbsp;<span style=3D=
+"font-weight:bold">18829210056</span>&nbsp;=B5=C7=C2=BD=D2=D7=D0=C5=CA=D6=
+=BB=FA=BF=CD=BB=A7=B6=CB=A3=AC=B3=A9=CF=ED=CE=DE=CF=DE=C1=BF=D3=CA=BC=FE=CC=
+=E1=D0=D1=A1=A3=CF=C2=D4=D8=BC=B4=BF=C9=CA=B9=D3=C3=A1=A3</div>
+        <div style=3D"height: 16px;line-height: 16px;margin:0;padding:0 34p=
+x 22px 34px;font-family: Simsun;font-size: 12px;color:#000;font-weight: bol=
+d;text-align:left;">=C6=E4=D6=D0=D2=D7=D0=C5=C3=DC=C2=EB=BA=CD=CA=D6=BB=FA=
+=D3=CA=CF=E4&nbsp;<span style=3D"font-weight:bold">18829210056@163.com</spa=
+n>&nbsp;=B5=C4=B5=C7=C2=BD=C3=DC=C2=EB=CF=E0=CD=AC=A1=A3</div>
+      </td>
+    </tr>
+    <tr>
+      <td><img src=3D"http://mimg.127.net/hxm/mail_res/20131128_yixin/img/c=
+nt2.png" alt=3D"=C2=ED=C9=CF=CF=C2=D4=D8=D2=D7=D0=C5=A3=AC=CF=ED=CA=DC=B8=
+=FC=B6=E0=B7=FE=CE=F1=A3=A8=B5=E3=BB=F7=CF=C2=D4=D8iPhone=B0=E6/Android=B0=
+=E6=A3=AC=BB=F2=D5=DF=C8=A5=D2=D7=D0=C5=B9=D9=CD=F8=D6=B1=BD=D3=CF=C2=D4=D8=
+=A3=AC=D2=B2=BF=C9=D2=D4=C9=A8=C3=E8=B6=FE=CE=AC=C2=EB=CF=C2=D4=D8=A3=A9" w=
+idth=3D"606" height=3D"225" border=3D"0" style=3D"display:block;" usemap=3D=
+"#download"/></td>
+    </tr>
+    <tr>
+      <td><img src=3D"http://mimg.127.net/hxm/mail_res/20131128_yixin/img/c=
+nt4.jpg" alt=3D"=BC=D3=C8=EB=D3=CA=B8=A3=C0=FB=A3=AC2014=B3=D4=BA=C8=CD=E6=
+=C0=D6=C8=AB=C4=EA=C3=E2=B5=A5=A3=AC=B5=E3=BB=F7=C2=ED=C9=CF=C3=E2=B5=A5=A3=
+=A1" width=3D"606" height=3D"171" border=3D"0" style=3D"display:block;" use=
+map=3D"#cnt1"/></td>
+    </tr>
+    <tr>
+      <td><img src=3D"http://mimg.127.net/hxm/mail_res/20131128_yixin/img/c=
+nt5.jpg" alt=3D"=D7=EE=C3=C0=BF=CD=B7=FE=A3=AC=CE=AA=C4=FA=CC=E1=B9=A9=CB=
+=BD=C8=CB=B6=A8=D6=C6=A3=AC=C1=A2=BF=CC=B9=D8=D7=A2=A3=A1" width=3D"606" he=
+ight=3D"198" border=3D"0" style=3D"display:block;" usemap=3D"#cnt2"/></td>
+    </tr>
+    <tr>
+      <td><img src=3D"http://mimg.127.net/hxm/mail_res/20131128_yixin/img/f=
+ooter.png" alt=3D"=C8=E7=B9=FB=C4=FA=D3=D0=C8=CE=BA=CE=CE=CA=CC=E2=BA=CD=BD=
+=A8=D2=E9=A3=AC=C7=EB=CD=A8=B9=FD=D3=CA=CF=E4=D6=AA=B5=C0=C1=AA=CF=B5=CE=D2=
+=C3=C7=A1=A3=A3=A8=CD=F8=D2=D7=D3=CA=BC=FE=D6=D0=D0=C4=A3=A9" width=3D"606"=
+ height=3D"43" border=3D"0" style=3D"display:block;" usemap=3D"#zhidao"/></=
+td>
+    </tr>
+  </tbody>
+</table>
+*cmd* 'QUIT'

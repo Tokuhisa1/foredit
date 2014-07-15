@@ -1,0 +1,10 @@
+中文
+num of messages 5
+subcode utf-8
+subject: 0273init0986
+subcode utf-8
+subject: reboot
+subcode utf-8
+subject: one command
+subcode gbk
+subject: 

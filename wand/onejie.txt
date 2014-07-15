@@ -1,0 +1,53 @@
+<map name="head">
+  <area title="" href="http://mail.163.com/" shape="rect" target="_blank" coords="40,26,135,50" style="outline:none;">
+  <area title="" href="http://www.126.com/" shape="rect" target="_blank" coords="147,26,244,50" style="outline:none;">
+  <area title="" href="http://www.yeah.net/" shape="rect" target="_blank" coords="254,26,340,50" style="outline:none;">
+</map>
+<map name="download">
+  <area title="" href="https://itunes.apple.com/cn/app/yi-xin-mian-fei-liao-tian/id683688634" shape="rect" target="_blank" coords="92,61,245,92" style="outline:none;">
+  <area title="" href="http://yixin.dl.126.net/update/installer/yixin.apk" shape="rect" target="_blank" coords="92,103,245,133" style="outline:none;">
+  <area title="" href="http://www.yixin.im" shape="rect" target="_blank" coords="92,144,245,175" style="outline:none;">
+</map>
+<map name="cnt1">
+  <area title="" href="http://u.163.com/youfuli?from=phone" shape="rect" target="_blank" coords="299,101,365,125" style="outline:none;">
+</map>
+<map name="cnt2">
+  <area title="" href="http://u.163.com/kefu?from=tuiguang3" shape="rect" target="_blank" coords="299,101,365,125" style="outline:none;">
+</map>
+<map name="zhidao">
+  <area title="" href="http://zhidao.mail.163.com" shape="rect" target="_blank" coords="213,12,274,26" style="outline:none;">
+</map>
+
+<table width="606" align="center" border="0" cellspacing="0" cellpadding="0" style="background-color:#fff;color:#000;">
+  <tbody>
+    <tr>
+      <td style="position: relative;"><img src="http://mimg.127.net/hxm/mail_res/20131128_yixin/img/header.png" alt="网易免费邮（163邮箱/126邮箱/yeah邮箱）" width="606" height="65" border="0" style="display:block;" usemap="#head"/></td>
+    </tr>
+    <tr>
+      <td><img src="http://mimg.127.net/hxm/mail_res/20131128_yixin/img/banner.jpg" alt="易信，让沟通更有趣（易信是时下最新的手机通讯软件，特有高清语音、离线短信、电话留言等通讯功能，更有海量免费贴图表情及音乐分享服务）" width="606" height="237" border="0" style="display:block;" /></td>
+    </tr>
+    <tr>
+      <td background="http://mimg.127.net/hxm/mail_res/20131128_yixin/img/bg.jpg">
+        <div style="height: 24px;line-height: 24px;margin:0;padding:37px 0;font-family: microsoft Yahei;font-size: 18px;color:#000;text-align:center;">诚邀您免费使用易信服务</div>
+        <div style="height: 16px;line-height: 16px;margin:0;padding:0 34px 18px 34px;font-size: 14px;font-family: Simsun;font-weight: bold;color:#000;text-align:left;">尊敬的手机邮箱用户：</div>
+        <div style="height: 16px;line-height: 16px;margin:0;padding:0 34px 5px 34px;font-family: Simsun;font-size: 12px;color:#000;text-align:left;">您可直接使用手机号&nbsp;<span style="font-weight:bold">18829210056</span>&nbsp;登陆易信手机客户端，畅享无限量邮件提醒。下载即可使用。</div>
+        <div style="height: 16px;line-height: 16px;margin:0;padding:0 34px 22px 34px;font-family: Simsun;font-size: 12px;color:#000;font-weight: bold;text-align:left;">其中易信密码和手机邮箱&nbsp;<span style="font-weight:bold">18829210056@163.com</span>&nbsp;的登陆密码相同。</div>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="http://mimg.127.net/hxm/mail_res/20131128_yixin/img/cnt2.png" alt="马上下载易信，享受更多服务（点击下载iPhone版/Android版，或者去易信官网直接下载，也可以扫描二维码下载）" width="606" height="225" border="0" style="display:block;" usemap="#download"/></td>
+    </tr>
+    <tr>
+      <td><img src="http://mimg.127.net/hxm/mail_res/20131128_yixin/img/cnt4.jpg" alt="加入邮福利，2014吃喝玩乐全年免单，点击马上免单！" width="606" height="171" border="0" style="display:block;" usemap="#cnt1"/></td>
+    </tr>
+    <tr>
+      <td><img src="http://mimg.127.net/hxm/mail_res/20131128_yixin/img/cnt5.jpg" alt="最美客服，为您提供私人定制，立刻关注！" width="606" height="198" border="0" style="display:block;" usemap="#cnt2"/></td>
+    </tr>
+    <tr>
+      <td><img src="http://mimg.127.net/hxm/mail_res/20131128_yixin/img/footer.png" alt="如果您有任何问题和建议，请通过邮箱知道联系我们。（网易邮件中心）" width="606" height="43" border="0" style="display:block;" usemap="#zhidao"/></td>
+    </tr>
+  </tbody>
+</table>
+*cmd* 'QUIT'
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
